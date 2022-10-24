@@ -1,9 +1,6 @@
 # 가사 도우미 [소스 다운로드](https://drive.google.com/file/d/1-ybW3psV_lkmppWUAOXjgVe2UNA4hTyd/view?usp=sharing)
 
 > 가사도우미 / 자신이 좋아하는 가사 한 줄을 공유하고 소통할 수 있는 공간
-> - [와이어프레임 및 간단한 소개](https://whitewise95.tistory.com/66).
-> - [프로젝트를 마치고 느낀점](https://github.com/whitewise95/TIL/tree/main/%ED%95%AD%ED%95%B499/1%EC%A3%BC%EC%B0%A8%20%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8).
-
 
 ## 프로젝트 팀원 밑 역활
 > 팀원
